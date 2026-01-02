@@ -1,0 +1,22 @@
+{
+  "name": "谿山行旅：登峰",
+  "short_name": "谿山行旅",
+  "description": "以北宋范寬《谿山行旅圖》為靈感的水墨卷軸平台遊戲",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2c2c2c",
+  "theme_color": "#2c2c2c",
+  "lang": "zh-TW",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
